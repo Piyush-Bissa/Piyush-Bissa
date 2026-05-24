@@ -1,5 +1,5 @@
 # 💫 About Me:
-B.Tech Student @ PIET | Front-End Developer & Graphic Designer<br>🎓 CGPA: 8.4 | Technical Lead & UI/UX Enthusiast<br>💻 Proficient in C++, Java, C, & Modern Web Tech (HTML/CSS/JS)
+B.Tech Student @ PIET | Front-End Developer & Graphic Designer<br>🎓 CGPA: 8.6 | Technical Lead & UI/UX Enthusiast<br>💻 Proficient in C++, Java, C, & Modern Web Tech (HTML/CSS/JS)
 
 
 ## 🌐 Socials:
